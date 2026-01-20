@@ -1,7 +1,25 @@
-Welcome to my collection of Core Java mini-projects! This repository is a place for small, simple console-based applications built using only basic Java fundamentals.
+Welcome to my collection of Core Java Dsa Practice! This repository is a place for my dsa learning journey and for small, simple console-based applications built using only basic Java fundamentals 
 
-About The Projects
+About The Repo
 
-The purpose of these projects is to provide hands-on practice with foundational concepts without relying on complex frameworks or libraries. They are designed to be easily understandable for beginners and showcase simple, practical use cases for Core Java syntax.
-Each project is contained within its own dedicated folder for better organization.
+The purpose of these repo is to provide hands-on practice with java coding. 
+
+This repository contains my daily practice and mini projects as part of my Full Stack Developer learning journey.
+
+Here I upload:
+- Class assignments  
+- Practice programs  
+- Mini projects  
+- Layout designs  
+
+### 🎯 Goal
+To build strong fundamentals
+
+I will keep updating this repository regularly with new frontend projects and practice work.
+
+---
+
+👨‍💻 Learning Journey 
+📅 Started in 2026  
+
 
